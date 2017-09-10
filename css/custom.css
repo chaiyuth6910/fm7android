@@ -1,0 +1,55 @@
+.login-screen-content .login-screen-title
+{
+	padding-top: 15vh;
+}
+
+.navbar-fixed .toolbar
+{
+	top: 55px;
+	position: fixed;
+}
+
+.navbar-fixed .page-content ,.navbar-fixed.view .page-content
+{
+	padding-top: 0px;
+}
+
+.head_nav_left
+{
+	margin:0px;
+	padding: 0px;
+	height: 150px;
+	background: url('../img/matbg.jpg');
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+.head_nav_left img
+{
+	width: 60px;
+	height: 60px;
+	border-radius: 30px;
+	margin-top: 20px;
+	margin-left: 15px;
+}
+
+.head_nav_left h2
+{
+	margin-left: 15px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #fff;
+}
+
+.head_nav_left p
+{
+	margin-left: 15px;
+	margin-top: 0px;
+	padding-top: 0px;
+	color: #fff;
+}
+
+.swiper-slide .preloader
+{
+	margin-top: 20px;
+}
